@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Quiz-I-was-bored:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Quiz_I_was_bored_jar</output-path>
+    <root id="archive" name="Quiz-I-was-bored.jar">
+      <element id="module-output" name="Quiz-I-was-bored" />
+    </root>
+  </artifact>
+</component>
