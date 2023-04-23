@@ -7,6 +7,7 @@ public class Question2 {
         String answer = scanner.nextLine();
         if (answer.equals("Because you are good at Java")) {
             System.out.println("Exactly.");
+            Question2.main(args);
         } else {
             System.out.println("Wrong.");
             main(args);

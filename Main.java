@@ -9,6 +9,9 @@ public class Main {
         if (answer.equals("Because you were bored")) {
             System.out.println("Exactly.");
             Question2.main(args);
+        } else {
+            System.out.println("Wrong");
+            Main.main(args);
         }
 
     }

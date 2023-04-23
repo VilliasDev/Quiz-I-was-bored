@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="bin">
+    <output-path>$PROJECT_DIR$/out/artifacts/bin</output-path>
+    <root id="archive" name="bin.jar" />
+  </artifact>
+</component>

@@ -7,6 +7,7 @@ public class Question3 {
         scanner.nextLine();
         if (scanner.equals("You had problems with Intellij")) {
             System.out.println("Exactly.");
+            Question4.main();
         } else {
             System.out.println("Wrong.");
             main();
